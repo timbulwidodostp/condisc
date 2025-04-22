@@ -1,0 +1,4 @@
+D 'condisc': Convergent and discriminant validity assessment in CFA Use condisc With STATA 19
+D
+F condisc.ado
+F condisc.sthlp

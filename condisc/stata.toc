@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p condisc Convergent and discriminant validity assessment in CFA Use condisc With STATA 19
