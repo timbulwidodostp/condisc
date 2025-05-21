@@ -1,6 +1,8 @@
 # condisc
 Convergent and discriminant validity assessment in CFA Use condisc With STATA 19
 
+https://www.youtube.com/watch?v=9LTjw9jYJLw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
